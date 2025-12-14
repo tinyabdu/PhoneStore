@@ -1,6 +1,6 @@
 # 📱 Phone Store – Flet Application
 
-A modern, responsive **Phone Store** application built using **Flet (Python)**. This project features a clean UI, component-based architecture, and smooth navigation, designed for **desktop and mobile platforms**.
+A modern, responsive **Phone Store** application built using **Flet (Python)**. This project features a clean UI, component-based architecture, and smooth navigation, designed for **desktop**.
 
 ---
 
@@ -47,7 +47,7 @@ phone_store/
 ### 1️⃣ Clone the project
 
 ```bash
-git clone https://github.com/tinyabdu/phone-store.git
+git clone https://github.com/tinyabdu/PhoneStore.git
 cd phone-store
 ```
 
