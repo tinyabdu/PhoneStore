@@ -75,14 +75,14 @@ flet run
 
 ---
 
-## 🖼️ Screenshots
+<!-- ## 🖼️ Screenshots
 
 (Add screenshots in your `assets/` folder)
 
 ```
 assets/
 └── screenshot_home.png
-```
+``` -->
 
 ---
 ## 🎬 Showcase
