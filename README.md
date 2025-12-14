@@ -86,7 +86,7 @@ assets/
 
 ---
 
-## 🔧 Customization
+<!-- ## 🔧 Customization
 
 All UI components are reusable. Example:
 
@@ -96,15 +96,15 @@ from components.header import Header
 page.add(Header(title="Phone Store"))
 ```
 
----
+--- -->
 
-## 🐛 Known Issues
+<!-- ## 🐛 Known Issues
 
 * Route blinking may occur if views are created incorrectly
 * Notification modal must be appended to `page.overlay`
 * Some animations require Flet v0.22+
 
----
+--- -->
 
 ## 🤝 Contributing
 
