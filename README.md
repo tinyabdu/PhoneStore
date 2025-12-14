@@ -80,7 +80,7 @@ flet run
 Here is a demo video of the project:
 
 [Watch Demo Video](showcase/dome_video.mp4) 
-[Watch Demo Video](showcase/2_x264_gif.gif) 
+
 
 
 <!-- ## 🔧 Customization
