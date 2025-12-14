@@ -118,4 +118,3 @@ This project is licensed under the **MIT License**.
 
 **Abdullahi Haruna (tinyabdu)**
 Developer from **Alldotpy**
-Python (Software) Developer – Nigeria 🇳🇬
