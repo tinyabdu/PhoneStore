@@ -10,7 +10,6 @@ A modern, responsive **Phone Store** application built using **Flet (Python)**. 
 * 🎨 Custom components: Sidebar, Header, Notification Modal, Search Bar
 * 🔍 Search and filter products from the database
 * 🧭 Smooth navigation using Flet `View` & routes
-* ⚡ Modern UI animations (fade, slide, scale)
 * 🗄️ Database support (SQLite)
 * 📦 Clean and scalable folder structure
 
@@ -75,24 +74,12 @@ flet run
 
 ---
 
-<!-- ## 🖼️ Screenshots
-
-(Add screenshots in your `assets/` folder)
-
-```
-assets/
-└── screenshot_home.png
-``` -->
-
 ---
 ## 🎬 Showcase
 
 Here is a demo video of the project:
 
-<video width="600" controls>
-  <source src="showcase\dome_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch Demo Video](showcase/dome_video.mp4)
 
 
 <!-- ## 🔧 Customization
@@ -129,6 +116,6 @@ This project is licensed under the **MIT License**.
 
 ## 👨‍💻 Author
 
-**Abdullahi Haruna (tiny_abdu)**
-Developer from **Aldotpy**
+**Abdullahi Haruna (tinyabdu)**
+Developer from **Alldotpy**
 Python (Software) Developer – Nigeria 🇳🇬
