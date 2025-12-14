@@ -19,7 +19,7 @@ A modern, responsive **Phone Store** application built using **Flet (Python)**. 
 ## 📁 Project Structure
 
 ```
-phone_store/
+sample/
 │── components/
 │     ├── header.py
 │     ├── sidebar.py
@@ -27,12 +27,11 @@ phone_store/
 │     └── searchbar.py
 │
 │── views/
-│     ├── home.py
-│     ├── products.py
-│     └── settings.py
+│     ├── home_page.py
+│     ├── add_page.py
+│     └── setting_page.py
 │
 │── database/
-│     ├── connection.py
 │     └── models.py
 │
 │── main.py
@@ -48,7 +47,7 @@ phone_store/
 
 ```bash
 git clone https://github.com/tinyabdu/PhoneStore.git
-cd phone-store
+cd PhoneStore
 ```
 
 ### 2️⃣ Install dependencies
