@@ -90,7 +90,7 @@ assets/
 Here is a demo video of the project:
 
 <video width="600" controls>
-  <source src="showcase/demo_video.mkv" type="video/mp4">
+  <source src="showcase\dome_video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
