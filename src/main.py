@@ -3,15 +3,6 @@ from views import Home, Add, Setting
 from components import Sidebar
 
 
-# Colors
-PRIMARY_BLUE = "#4A90E2"
-SECONDARY_GREEN = "#7ED321"
-ACCENT_ORANGE = "#F5A623"
-NEUTRAL_LIGHT = "#F4F6FA"
-NEUTRAL_DARK = "#1C1C28"
-WHITE = "#FFFFFF"
-GRAY = "#9B9B9B"
-
 def main(page: ft.Page):
 
     # Disable transitions to prevent blinking
@@ -56,7 +47,6 @@ def main(page: ft.Page):
         
     page.on_resized = on_resize
     
-    # Routing: only body.content changes
     def route_change(e):
         if page.route == "/":
             body.content = Home(page)
